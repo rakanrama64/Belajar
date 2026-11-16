@@ -1,0 +1,9 @@
+# Belajar GitHub
+
+Ini adalah repository pertama saya.
+
+## Tujuan
+Belajar menggunakan Git dan GitHub.
+
+## Pembuat
+Nama: (Rakan)
